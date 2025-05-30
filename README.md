@@ -1,9 +1,8 @@
-# EX NO 1: Cloud-account-set-up-and-services
-~~~
-Name : SHAKTHI KUMAR S
+# EX NO: 1 Cloud-account-set-up-and-services
 
-Reg no: 212222110043
-~~~
+## Name : SHAKTHI KUMAR S
+## Reg no: 212222110043
+
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
 
@@ -86,6 +85,4 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 
 # Result:
 Thus an account was created in AWS platform and all the services were explored.
-
-
 
